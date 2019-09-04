@@ -17,4 +17,7 @@ public class DemoController {
 	public void hanxin(){
 	  System.out.println("哈哈哈哈哈啊");
 	}
+	public void hanxin2(){
+	  System.out.println("哈哈哈哈哈啊");
+	}
 }
